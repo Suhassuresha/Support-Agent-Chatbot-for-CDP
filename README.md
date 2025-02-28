@@ -4,7 +4,7 @@
 This project is a Support Agent Chatbot designed to assist with "how-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The chatbot leverages official documentation from these platforms to provide accurate and context-aware responses to user queries. The application is built using Python and Flask, with additional libraries for natural language processing (NLP) and document indexing.
 
 ## Live Project Link
-You can access the live version of the project [here](http://your-live-project-link.com).
+You can access the live version of the project [here](https://support-agent-chatbot-for-cdp.onrender.com/).
 
 ## Core Functionalities
 1. **Answer "How-to" Questions**:
